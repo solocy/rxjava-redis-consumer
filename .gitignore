@@ -1,7 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-pom.xml
-readme.md
 rxredis.iml
-src/
+src/test
 target/
