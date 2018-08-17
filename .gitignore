@@ -3,3 +3,4 @@
 rxredis.iml
 src/test
 target/
+/.gitignore
